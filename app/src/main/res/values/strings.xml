@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vaccination Reminder</string>
+    <string name="click_add_button">Click the plus button to add a new child</string>
+    <string name="child_name">Child name</string>
+    <string name="child_b_day">Child birth day</string>
+    <string name="add">Add</string>
+    <string name="empty_name_error">Name can\'t be empty</string>
+    <string name="empty_calendar_error">Please enter birth day</string>
+    <string name="vaccination_notification_title">Its time for %s Vaccination</string>
+    <string name="vaccination_notification_message">its time for the vacination : %s</string>
+</resources>
